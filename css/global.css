@@ -1,3 +1,7 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato:wght@400;700&family=Mulish:wght@400;600;700&display=swap');
+
+/* font-family: 'Lato', sans-serif; */
+/* font-family: 'Mulish', sans-serif; */
 
 *{
     box-sizing: border-box;
@@ -45,6 +49,7 @@ body{
     font-size: 1.4rem;
     line-height: 1.42;
     font-weight: 600;
+    letter-spacing: 0.2px;
     font-family: var(--main-font);
     color: var(--main-text-color);
 }
